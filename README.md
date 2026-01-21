@@ -50,3 +50,29 @@ The project explores multiple approaches:
 - Accuracy
 - Precision, Recall, F1-score
 - Confusion Matrix
+
+## 📊 Dataset Visualization
+
+### WordCloud of Job Descriptions
+![WordCloud](images/1.png)
+
+---
+
+## 🧠 Model Evaluation
+
+### LSTM Confusion Matrix
+![LSTM Confusion Matrix](images/3.png)
+
+### Logistic Regression Confusion Matrix
+![Logistic Regression Confusion Matrix](images/4.png)
+
+---
+
+## 🤝 Job Recommendation System
+
+### Smart Job Recommendation
+![Smart Job Recommendation](images/5.png)
+
+### Recommend by Profile
+![Recommend by Profile](images/6.png)
+
